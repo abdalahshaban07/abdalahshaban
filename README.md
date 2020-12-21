@@ -8,13 +8,14 @@
 
 * 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
 
-* 💬 Ask me about **angular2,react (basic),ionic, expressjs, mongoDB,Flutter(basic) **
+* 💬 Ask me about **angular2, react (basic), ionic, expressjs, mongoDB, Flutter(basic) **
 
 * 📫 How to reach me **abdalahshaban129@gmail.com**
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" alt="angular" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" alt="bootstrap" width="100" height="50"/> 
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" alt="angular" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" alt="bootstrap" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" alt="css3" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" alt="html5" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" alt="javascript" width="100" height="50"/> 
