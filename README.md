@@ -12,11 +12,25 @@
 
 * 📫 How to reach me **abdalahshaban129@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="100" height="50"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" alt="angular" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" alt="bootstrap" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" alt="css3" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" alt="html5" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" alt="javascript" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg" alt="typescript" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mongodb.svg" alt="mongodb" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" alt="mysql" width="100" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="50"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/nestjs.svg" alt="nestjs" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/electron.svg" alt="electron" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ionic.svg" alt="ionic" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ipfs.svg" alt="ipfs" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="100" height="50"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="100" height="50"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> </p>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="100" height="50"/></p>
+  <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> </p>
 
 * :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
 * :email: abdalahshaban129@gmail.com
