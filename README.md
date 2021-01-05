@@ -22,8 +22,8 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg" alt="typescript" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mongodb.svg" alt="mongodb" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" alt="mysql" width="100" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="50"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/node-dot-js.svg" alt="nodejs" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/express.svg" alt="express" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/nestjs.svg" alt="nestjs" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/electron.svg" alt="electron" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ionic.svg" alt="ionic" width="100" height="50"/>
