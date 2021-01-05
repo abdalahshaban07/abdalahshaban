@@ -15,21 +15,21 @@
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" title="angular" alt="angular" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" alt="bootstrap" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" alt="css3" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" alt="html5" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" alt="javascript" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg" alt="typescript" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mongodb.svg" alt="mongodb" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" alt="mysql" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/node-dot-js.svg" alt="nodejs" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/express.svg" alt="express" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/nestjs.svg" alt="nestjs" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/electron.svg" alt="electron" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ionic.svg" alt="ionic" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ipfs.svg" alt="ipfs" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="100" height="50"/></p>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" title="bootstrap" alt="bootstrap" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" title="css3" alt="css3" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" title="html5" alt="html5" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" title="javascript" alt="javascript" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg" title="typescript" alt="typescript" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mongodb.svg" title="mongodb" alt="mongodb" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" title="mysql" alt="mysql" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/node-dot-js.svg" title="nodejs" alt="nodejs" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/express.svg" title="express" alt="express" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/nestjs.svg" title="nestjs" alt="nestjs" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/electron.svg" title="electron" alt="electron" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ionic.svg" title="ionic" alt="ionic" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ipfs.svg" title="ipfs" alt="ipfs" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" title="flutter" alt="flutter" width="100" height="50"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> </p>
 
