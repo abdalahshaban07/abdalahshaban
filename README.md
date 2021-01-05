@@ -14,7 +14,7 @@
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" alt="angular" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" title="angular" alt="angular" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" alt="bootstrap" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" alt="css3" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" alt="html5" width="100" height="50"/>
