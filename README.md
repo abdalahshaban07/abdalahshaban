@@ -43,9 +43,9 @@
 
 <p align="center">
 <a href="https://twitter.com/abdalahzamalek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdalahzamalek" width="100" height="50"/></a>
-<p>
-[![Twitter](https://img.shields.io/twitter/follow/abdalahzamalek?style=social)](https://img.shields.io/twitter/follow/abdalahzamalek?style=social)
-</p>
+
+<a href="https://img.shields.io/twitter/follow/abdalahzamalek?style=social" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/abdalahzamalek?style=social" alt="abdalahzamalek" width="100" height="50"/></a>
+
 <a href="https://linkedin.com/in/abdullah-shaaban-22322a15b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdullah-shaaban-22322a15b" width="100" height="50"/></a>
 <a href="https://fb.com/abdalahshabanuwk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdalahshabanuwk" width="100" height="50"/></a>
 </p>
