@@ -41,11 +41,13 @@
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
 - :email: abdalahshaban129@gmail.com
 
-<p align="center">
-<a href="https://twitter.com/abdalahzamalek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdalahzamalek" width="100" height="50"/></a>
+<div>
+<!-- <a href="https://twitter.com/abdalahzamalek" target="blank"><img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdalahzamalek" width="100" height="50"/></a> -->
 
-<a href="https://img.shields.io/twitter/follow/abdalahzamalek?style=social" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/abdalahzamalek?style=social" alt="abdalahzamalek" width="100" height="50"/></a>
+<a href="https://img.shields.io/twitter/follow/abdalahzamalek?style=social" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/abdalahzamalek?style=social" alt="abdalahzamalek" width="300" height="50"/></a>
 
-<a href="https://linkedin.com/in/abdullah-shaaban-22322a15b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdullah-shaaban-22322a15b" width="100" height="50"/></a>
-<a href="https://fb.com/abdalahshabanuwk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdalahshabanuwk" width="100" height="50"/></a>
-</p>
+<a href="https://linkedin.com/in/abdullah-shaaban-22322a15b" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdullah-shaaban-22322a15b" width="100" height="50"/></a>
+
+<a href="https://fb.com/abdalahshabanuwk" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdalahshabanuwk" width="100" height="50"/></a>
+
+</div>
