@@ -2,15 +2,15 @@
 , I'm Web Developer</h1>
 <h3 align="center">A Mean Stack Developer in ISEC in Egypt</h3>
 
-* 🔭 I’m currently working on [YallaPlaces](https://drive.google.com/file/d/1OeB9A9LKI_UIo5Kf1VRqddShlZcUlD9h/view?usp=sharing)
+- 🔭 I’m currently working on [YallaPlaces](https://drive.google.com/file/d/1OeB9A9LKI_UIo5Kf1VRqddShlZcUlD9h/view?usp=sharing)
 
-* 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**
 
-* 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
 
-* 💬 Ask me about **angular2, react (basic), ionic, expressjs, mongoDB, Flutter(basic) **
+- 💬 Ask me about **angular2, react (basic), ionic, expressjs, mongoDB, Flutter(basic) **
 
-* 📫 How to reach me **abdalahshaban129@gmail.com**
+- 📫 How to reach me **abdalahshaban129@gmail.com**
 
 <p align="left">
 
@@ -30,13 +30,21 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ipfs.svg" title="ipfs" alt="ipfs" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" title="flutter" alt="flutter" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
-  <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> </p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban)](https://github.com/andoshin11)
 
-* :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
-* :email: abdalahshaban129@gmail.com
+<div style="display:flex">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> 
+    </div>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban"/>
+    </div>
+
+</div>
+
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban)](https://github.com/abdalahshaban) -->
+
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
+- :email: abdalahshaban129@gmail.com
 
 <p align="center">
 <a href="https://twitter.com/abdalahzamalek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdalahzamalek" width="100" height="50"/></a>
