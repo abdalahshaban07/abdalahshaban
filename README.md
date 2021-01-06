@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ipfs.svg" title="ipfs" alt="ipfs" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" title="flutter" alt="flutter" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
-
+```html
 <div style="display:flex;">
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> 
@@ -40,7 +40,7 @@
     </div>
 
 </div>
-
+```
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban)](https://github.com/abdalahshaban) -->
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
