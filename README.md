@@ -32,6 +32,8 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> </p>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban)](https://github.com/andoshin11)
 
 * :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
 * :email: abdalahshaban129@gmail.com
