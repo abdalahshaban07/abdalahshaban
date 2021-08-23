@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-, I'm Web Developer</h1>
-<!--<h3 align="center">A Mean Stack Developer in ISEC in Egypt</h3>-->
+, I'm Software Engineer</h1>
+<!--<h3 align="center">A Front-End Developer in Edu Applications in Egypt</h3>-->
 
 - 🔭 I’m currently working on [Edu Applications](https://eduapplications.org/)
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
 
-- 💬 Ask me about **angular2, react, ionic, expressjs, mongoDB,nestjs, Flutter(basic) **
+- 💬 Ask me about **angular2, react, ionic, expressjs, mongoDB , nestjs, Flutter(basic) **
 
 - 📫 How to reach me **abdalahshaban129@gmail.com**
 
@@ -38,7 +38,7 @@
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban)](https://github.com/abdalahshaban) -->
 
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1YeqDIGNjghlYBKY2vddHgTGN8n4M0qdQ/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NZfoNdziUSG4Q0pZ3WClLKDZSIwjwxLx/view?usp=sharing)
 - :email: abdalahshaban129@gmail.com
 
 <div>
