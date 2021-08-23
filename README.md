@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
 
-- 💬 Ask me about **angular2, react (basic), ionic, expressjs, mongoDB, Flutter(basic) **
+- 💬 Ask me about **angular2, react, ionic, expressjs, mongoDB,nestjs, Flutter(basic) **
 
 - 📫 How to reach me **abdalahshaban129@gmail.com**
 
