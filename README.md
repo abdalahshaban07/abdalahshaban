@@ -15,6 +15,7 @@
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" title="angular" alt="angular" width="100" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/react.svg" title="react" alt="react" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" title="bootstrap" alt="bootstrap" width="100" height="50"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" title="css3" alt="css3" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" title="html5" alt="html5" width="100" height="50"/>
@@ -38,7 +39,7 @@
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07)](https://github.com/abdalahshaban07) -->
 
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NZfoNdziUSG4Q0pZ3WClLKDZSIwjwxLx/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1b8VSba3mXBafZ4NIqARzpUNCmiJmkEt4/view?usp=sharing)
 - :email: abdalahshaban129@gmail.com
 
 <div>
