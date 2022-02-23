@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban07?tab=repositories](https://github.com/abdalahshaban?tab=repositories)
 
 - 💬 Ask me about **angular2, react, ionic, expressjs, mongoDB , nestjs, Flutter(basic) **
 
@@ -32,11 +32,11 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban&show_icons=true" alt="abdalahshaban" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true" alt="abdalahshaban" /> 
      <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban"/>
 </div>
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban)](https://github.com/abdalahshaban) -->
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07)](https://github.com/abdalahshaban07) -->
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1NZfoNdziUSG4Q0pZ3WClLKDZSIwjwxLx/view?usp=sharing)
 - :email: abdalahshaban129@gmail.com
