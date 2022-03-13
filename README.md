@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Edu Applications](https://eduapplications.org/)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban07?tab=repositories](https://github.com/abdalahshaban07?tab=repositories)
 
