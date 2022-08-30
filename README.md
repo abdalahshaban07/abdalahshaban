@@ -3,7 +3,7 @@
 
 - 🧑‍💼 I’m currently working in [Schneider Electric] (https://www.se.com/uk/en/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning C#, .Net framework and .Net Core.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban07?tab=repositories](https://github.com/abdalahshaban07?tab=repositories)
 
