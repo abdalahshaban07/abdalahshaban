@@ -1,57 +1,37 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-, I'm Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Shaaban</h1>
+<h3 align="center">I'am Software Engineer</h3>
 
-- 🧑‍💼 I’m currently working in [Schneider Electric] (https://www.se.com/uk/en/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalahshaban07&label=Profile%20views&color=0e75b6&style=flat" alt="abdalahshaban07" /> </p>
 
-- 🌱 I’m currently learning C#, .Net framework and .Net Core.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdalahshaban07?tab=repositories](https://github.com/abdalahshaban07?tab=repositories)
+<p align="left"> <a href="https://twitter.com/abdalahzamalek" target="blank"><img src="https://img.shields.io/twitter/follow/abdalahzamalek?logo=twitter&style=for-the-badge" alt="abdalahzamalek" /></a> </p>
 
-- 💬 Ask me about **angular2, react, ionic, expressjs, mongoDB , nestjs, Flutter(basic) **
+- 🔭 I’m currently working on [Portal](http://igrctesting-001-site1.etempurl.com/#/dashboard)
+
+- 🌱 I’m currently learning **C# , ASP.NET Core**
+
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/abdalahshaban07?tab=repositories)
+
+- 💬 Ask me about **angular , react, ionic, expressjs, mongoDB , nestjs, Flutter(basic) ,ASP.NET Core**
 
 - 📫 How to reach me **abdalahshaban129@gmail.com**
 
+- 📄 Know about my experiences :paperclip:[My Resume/CV](https://drive.google.com/file/d/1b8VSba3mXBafZ4NIqARzpUNCmiJmkEt4/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/abdalahzamalek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdalahzamalek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-shaaban-22322a15b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shaaban-22322a15b" height="30" width="40" /></a>
+</p>
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" title="angular" alt="angular" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/react.svg" title="react" alt="react" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/bootstrap.svg" title="bootstrap" alt="bootstrap" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" title="css3" alt="css3" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" title="html5" alt="html5" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" title="javascript" alt="javascript" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/typescript.svg" title="typescript" alt="typescript" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mongodb.svg" title="mongodb" alt="mongodb" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" title="mysql" alt="mysql" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/node-dot-js.svg" title="nodejs" alt="nodejs" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/express.svg" title="express" alt="express" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/nestjs.svg" title="nestjs" alt="nestjs" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/electron.svg" title="electron" alt="electron" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ionic.svg" title="ionic" alt="ionic" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/ipfs.svg" title="ipfs" alt="ipfs" width="100" height="50"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" title="flutter" alt="flutter" width="100" height="50"/> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<div align="start" style="display:flex;flex-wrap:wrap;justify-content: space-between;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true&theme=radical" alt="abdalahshaban"/> 
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07&theme=radical"/>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullah_uwk&cache_seconds=1800&theme=radical"/>
-    <img align="top" src="https://github-profile-trophy.vercel.app/?username=abdalahshaban07&theme=onedark"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalahshaban07&show_icons=true&locale=en&layout=compact" alt="abdalahshaban07" /></p>
 
-<!-- [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=abdullah_uwk&cache_seconds=1800&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true&locale=en" alt="abdalahshaban07" /></p>
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=abdalahshaban07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalahshaban07&" alt="abdalahshaban07" /></p>
 
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1b8VSba3mXBafZ4NIqARzpUNCmiJmkEt4/view?usp=sharing)
-- :email: abdalahshaban129@gmail.com
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalahshaban07" alt="abdalahshaban07" /></a> </p>
 
-<div>
-<!-- <a href="https://twitter.com/abdalahzamalek" target="blank"><img align="left"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="abdalahzamalek" width="100" height="50"/></a> -->
-
-<a href="https://twitter.com/abdalahzamalek" target="blank"><img align="left" src="https://img.shields.io/twitter/follow/abdalahzamalek?label=abdalahzamalek&style=social" alt="abdalahzamalek" width="300" height="50"/></a>
-
-<a href="https://linkedin.com/in/abdullah-shaaban-22322a15b" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdullah-shaaban-22322a15b" width="100" height="50"/></a>
-
-<a href="https://fb.com/abdalahshabanuwk" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="abdalahshabanuwk" width="100" height="50"/></a>
-
-</div>
