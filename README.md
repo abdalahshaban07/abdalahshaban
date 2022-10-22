@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" title="flutter" alt="flutter" width="100" height="50"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
 
-<div align="center" style="display:flex;flex-wrap:wrap">
+<div align="start" style="display:flex;flex-wrap:wrap">
     <img align="top" src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true&theme=radical" alt="abdalahshaban"/> 
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07&theme=radical"/>
     <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullah_uwk&cache_seconds=1800&theme=radical"/>
