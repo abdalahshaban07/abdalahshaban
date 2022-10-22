@@ -32,11 +32,16 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" title="dart" alt="dart" width="100" height="50"/></p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true" alt="abdalahshaban" /> 
-     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07"/>
+    <img align="top" src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true&theme=radical" alt="abdalahshaban" /> 
+    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdullah_uwk&cache_seconds=1800&theme=radical"/>
+     <div style="margin-bottom:10px"></div>
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07&theme=radical"/>
+    <img align="top" src="https://github-profile-trophy.vercel.app/?username=abdalahshaban07&theme=onedark"/>
 </div>
 
- <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07)](https://github.com/abdalahshaban07) -->
+<!-- [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=abdullah_uwk&cache_seconds=1800&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=abdalahshaban07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - :paperclip: [My Resume/CV](https://drive.google.com/file/d/1b8VSba3mXBafZ4NIqARzpUNCmiJmkEt4/view?usp=sharing)
 - :email: abdalahshaban129@gmail.com
