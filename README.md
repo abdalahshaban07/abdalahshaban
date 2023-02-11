@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdalahzamalek" target="blank"><img src="https://img.shields.io/twitter/follow/abdalahzamalek?logo=twitter&style=for-the-badge" alt="abdalahzamalek" /></a> </p>
 
-- 🔭 I’m currently working on [Portal](http://igrctesting-001-site1.etempurl.com/#/dashboard)
+<!-- - 🔭 I’m currently working on [Portal](http://igrctesting-001-site1.etempurl.com/#/dashboard) -->
 
 - 🌱 I’m currently learning **C# , ASP.NET Core**
 
